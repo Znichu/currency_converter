@@ -4,7 +4,7 @@ yarn
 yarn dev
 
 Run frontend
-cd ..
-cd front
-yarn
-yarn start
+### `cd ..`
+### `cd front`
+### `yarn`
+### `yarn start`
